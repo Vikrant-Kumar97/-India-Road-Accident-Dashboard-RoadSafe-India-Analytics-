@@ -2,8 +2,6 @@
 
 An interactive Excel dashboard analyzing road accident trends, severity, and risk factors across India (2018–2023).
 
-![Dashboard Preview](dashboard_preview.png)
-
 ## 📌 Domain
 Transportation & Public Safety Analytics
 
